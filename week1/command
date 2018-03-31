@@ -1,0 +1,8 @@
+git clone https://github.com/minyang1990/bittigercs503.git
+sudo npm install -g angular-cli
+ng new oj-client
+ng serve
+http://localhost:4200/
+cd ..
+git commit -a
+
